@@ -1,1 +1,1 @@
- A web developer, make things simgple
+Web developer, make things simgple
